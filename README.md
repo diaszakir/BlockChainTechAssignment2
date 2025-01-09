@@ -99,6 +99,15 @@ The contract includes the following functions:
 ![image](https://github.com/user-attachments/assets/3d51748e-569a-4153-8cf5-a684f50d977b)
 ![image](https://github.com/user-attachments/assets/4052a19d-b307-47fb-ab67-3bdc3bdbdbeb)
 ![image](https://github.com/user-attachments/assets/83e3bc89-357e-4cac-87e8-f07ffa2e562d)
+![image](https://github.com/user-attachments/assets/d870b07d-00c2-4a88-86f4-284d67830629)
+![image](https://github.com/user-attachments/assets/91b7bb68-4124-4804-87fc-f7d31653fcf7)
+![image](https://github.com/user-attachments/assets/321eeba3-c687-4441-922b-82128153c650)
+![image](https://github.com/user-attachments/assets/8aada62c-e68e-4def-94bc-1bd6f7310a5e)
+![image](https://github.com/user-attachments/assets/3bde91f8-d2dd-4930-8699-0af667e3623a)
+![image](https://github.com/user-attachments/assets/b9d79eb6-794f-4cc2-9af7-0f20c1cbe39c)
+![image](https://github.com/user-attachments/assets/9623433e-195a-4a24-972f-68a3e2eb67eb)
+![image](https://github.com/user-attachments/assets/b4f566f7-bca3-47b9-a30f-e1ca12126fcb)
+
 
 
 
