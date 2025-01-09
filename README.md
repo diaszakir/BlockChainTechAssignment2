@@ -95,6 +95,13 @@ The contract includes the following functions:
 - `withdrawFunds()`: Allows the contract owner to withdraw accumulated funds.
 - `getModelDetails(modelId)`: Retrieves details of a model, including name, description, price, creator, and average rating.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/3d51748e-569a-4153-8cf5-a684f50d977b)
+![image](https://github.com/user-attachments/assets/4052a19d-b307-47fb-ab67-3bdc3bdbdbeb)
+![image](https://github.com/user-attachments/assets/83e3bc89-357e-4cac-87e8-f07ffa2e562d)
+
+
+
 ## Future Improvements
 
 - Deploy the contract to an Ethereum testnet or mainnet.
